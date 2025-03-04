@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm working to better my understanding of data analysis, preparation, examining, and presentation.<br>Most of my experience lies in R, Python, MATLAB, SQL, and Java.<br>I've programmed many projects focusing on Machine Learning, Time Series Analysis, Data Structures, and many more.<br>I love to work with others or solo if need be, but when I get to work, I get the work done.🤙
+My name is Marko Tyhansky and I'm working to better my understanding of data analysis, preparation, examining, and presentation.<br>Most of my experience lies in R, Python, MATLAB, SQL, and Java.<br>I've programmed many projects focusing on Machine Learning, Time Series Analysis, Data Structures, and many more.<br>I love to work with others or solo if need be, but when I get to work, I get the work done.🤙
 
 ## LinkedIn 🔗📘
 [https://www.linkedin.com/in/marko-tyhansky-6b16a0246/](url)
